@@ -57,7 +57,7 @@ spring:
               - email
           google:
             client-id: ${OAUTH2_GOOGLE_CLIENT}
-            client-secret: ${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}
+            client-secret: ${OAUTH2_GOOGLE}
             scope:
               - email
               - profile
